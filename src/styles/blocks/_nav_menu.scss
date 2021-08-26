@@ -1,6 +1,8 @@
 .nav_menu {
     display: flex;
     text-align: center;
+    position: relative;
+    top: 20px;
 }
 
 .brandname {
@@ -23,7 +25,7 @@
     display: flex;
     list-style: none;
     padding-left: 0;
-    margin-right: 180px;
+    margin-right: 210px;
 }
 
 .nav_item {
@@ -33,32 +35,13 @@
 }
 
 .login {
-
     width: 43px;
     height: 22px;
     margin-right: 50px;
     margin-top: 17px;
 }
 
-.header_btn {
-    width: 138px;
-    height: 52px;
-    
-}
-
-.header_btn {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding: 15px 25px;
-
-    /* primary-color */
-    
-    background: #FC724D;
-    border-radius: 5px;
-}
-
-.header_btn p {
-    color: #ffffff;
-    padding-right: 10px;
+.welcome {
+    color: #FC724D;
+    margin-top: 112px;
 }

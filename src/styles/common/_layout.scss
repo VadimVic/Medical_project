@@ -1,0 +1,86 @@
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.wrapper {
+    max-width: 1050px;
+    margin: 0 auto;
+    border: 2px solid black;
+    margin-top: 91px;
+}
+
+h1 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 80px;
+    /* or 138% */
+
+    letter-spacing: 0.2px;
+
+    /* text-color */
+
+    color: #252B42;
+}
+
+h2 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    /* identical to box height, or 125% */
+    
+    letter-spacing: 0.2px;
+    
+    /* text-color */
+    
+    color: #252B42;  
+}
+
+h3 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    
+    letter-spacing: 0.1px;
+    
+    /* text-color */
+    
+    color: #252B42;
+}
+
+a {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 22px;
+    /* identical to box height, or 157% */
+
+    letter-spacing: 0.2px;
+
+    /* primary-color */
+
+    color: #FC724D;
+}
+
+p {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+
+    letter-spacing: 0.2px;
+
+    /* second-text-color */
+
+    color: #737373;
+}

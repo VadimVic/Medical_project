@@ -2,6 +2,17 @@
 @import "common/_variables";
 @import "common/_fonts";
 @import "common/_typography";
+@import "common/_layout";
 
 // blocks
+@import "blocks/_nav_menu";
+@import "blocks/_header_content";
+@import "blocks/_impression";
+@import "blocks/_media";
+@import "blocks/_leading";
 @import "blocks/_promo";
+@import "blocks/_experts";
+@import "blocks/_team";
+@import "blocks/_newsletter";
+@import "blocks/_footer";
+@import "blocks/_header";

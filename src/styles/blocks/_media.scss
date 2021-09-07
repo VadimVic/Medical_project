@@ -1,0 +1,42 @@
+.media {
+    display: flex;
+}
+.media_content {
+    width: 48%;
+    margin-right: 30px;
+}
+
+.media .fixed_line {
+    height: 0;
+    width: 94px;
+    border: 2px solid transparent;
+    border-bottom: 7px solid #E74040;
+}
+
+.media a {
+    text-decoration: none;
+}
+
+.media_video {
+    position: relative;
+    width: 48%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.media_btn {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 92.6px;
+    height: 92.6px;
+    margin: auto;
+    font-size: 0;
+    background-image: url("../images/icons/button_video.png");
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    cursor: pointer;
+  
+   }

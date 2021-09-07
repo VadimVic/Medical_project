@@ -17,6 +17,10 @@
     width: 138px;
     background: #FC724D;
     border: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 15px 25px;
 }
 
 .btn_small {
@@ -63,10 +67,10 @@
 
 .header_btn {
     height: 52px;
-    display: flex;
+    // display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 15px 25px;
+    // padding: 15px 25px;
 
     /* primary-color */
     

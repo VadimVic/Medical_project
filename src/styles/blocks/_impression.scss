@@ -1,0 +1,42 @@
+.impression_text {
+    margin-bottom: 112px;
+}
+
+.impression_items {
+    display: flex;
+}
+
+.impression_item {
+    margin-right: 30px;
+}
+
+.impression_item:last-child {
+    margin-right: 0;
+}
+
+.card {
+    
+    padding: 35px 40px;
+}
+
+.impression_text a {
+    text-decoration: none;
+    line-height: 24px;
+ }
+
+.impression_text h2 {
+    margin: 0;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.impression_text p {
+    max-width: 462px;
+}
+
+.fixed_line {
+    height: 0;
+    width: 50px;
+    border: 2px solid transparent;
+    border-bottom: 2px solid #E74040;
+}
